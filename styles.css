@@ -1,0 +1,11 @@
+.boxes{
+    display: table-cell;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 1em;
+    align-items: flex-start;
+    font-size: 50px;
+}
